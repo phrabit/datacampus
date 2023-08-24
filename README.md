@@ -29,7 +29,7 @@
 
 ## About Project
 
-### 01 okt 토큰화 및 불용어처
-* 결과파일 : 01-apt-price-input.ipynb 결과를 직접 입력해 보시면서 실습할 수 있는 자료 입니다. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/open-data-01-apt-price-input)
+### 01 lda 토픽 모델링
+* 
 
 

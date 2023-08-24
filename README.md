@@ -30,6 +30,6 @@
 ## About Project
 
 ### 01 lda 토픽 모델링
-* 
+* result.zip
 
 
